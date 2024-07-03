@@ -25,14 +25,6 @@ CartScreen
 	•	Displays items that have been added to the cart.
 	•	Each item can be removed using the “Remove from Cart” button.
 
-Components
-
-ProductList
-
-	•	Renders the list of products on the HomeScreen.
-	•	Includes the Open Fashion logo, search, filter, and list view buttons.
-	•	Each product displays its image, name, description, and price.
-
 Cart
 
 	•	Renders the list of items in the cart on the CartScreen.
