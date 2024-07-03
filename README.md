@@ -1,5 +1,4 @@
 # rn-assignment6-11117173
-Here’s a more detailed and polished README file for your project:
 
 Fashion Shop Mobile App
 
