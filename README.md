@@ -36,3 +36,8 @@ Installation
 	1.	Clone the repository:https://github.com/asareprosper143/rn-assignment6-11117173
   2. cd fashion-shop-app
   3. npm run web
+
+Screenshot
+![Image 2024-07-03 at 23 28 48_8d642393](https://github.com/asareprosper143/rn-assignment6-11117173/assets/151519158/6db65400-bf77-4703-bf18-6c80362c22ba)
+
+![Image 2024-07-03 at 23 28 48_333270fe](https://github.com/asareprosper143/rn-assignment6-11117173/assets/151519158/6e647b6f-0020-4665-8029-6b82ad6c2b14)
